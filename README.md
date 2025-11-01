@@ -4,9 +4,8 @@ Conjunto de scripts de automatización para Blue Teamear como un desgraciado, pr
 
 ## Componentes
 
-- **AutoTasker_GodMode_v1.js**: Parecido al otro pero mas lento ya que usa otra lógica. Se deja en segundo plano mientras va resolviendo el ejercicio.
-
 - **DefenderGOD_v2.js**: Script de JavaScript que se ejecuta en el navegador a través de la consola de la DevTools. Detecta automáticamente los tipos de eventos, toma decisiones basadas en reglas predefinidas y procesa múltiples eventos simultáneamente mediante el turbo motor incorporado. Se podría decir que es el Terranator de los scripts.
+- **AutoTasker_GodMode_v1.js**: Parecido al otro pero mas lento ya que usa otra lógica. Se deja en segundo plano mientras va resolviendo el ejercicio.
 
 Importante: ***No uses el script sin haverlo intentado antes por tu cuenta.***
 
