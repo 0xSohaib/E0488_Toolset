@@ -36,7 +36,7 @@ En la consola de desarrollador:
 
 1. **Si es la primera vez:**
     - Normalmente el navegador solicita que escribas `allow pasting` y pulsar enter para habilitar la opción de pegado de código. Si no te permite ejecutar el script, busca cómo habilitar el uso de scripts en la consola de tu navegador.
-    - En este caso usaré Brave (cualquier navegador basado en crhomium funciona de manera similar).
+    - En este caso usaré Brave (cualquier navegador basado en chromium funciona de manera similar).
 
 ![alt text](./1.png "DevTools")
 
